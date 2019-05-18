@@ -1,0 +1,8 @@
+{
+    "name":"<mod name>",
+    "manualUrl":"<manual url>",
+    "author":"<author>",
+    "description":"<description>",
+    "state":"<notReady/ready/inProgress>",
+    "notes":"<notes>"
+}
