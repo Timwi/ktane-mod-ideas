@@ -13,7 +13,7 @@ function getDataFile() {
         xhttp.onreadystatechange = function() {
             if (this.readyState == 4 && this.status == 200) res(this.responseText);
         };
-        xhttp.open("GET", "/meta?_=" + new Date().getTime(), true);
+        xhttp.open("GET", "meta?_=" + new Date().getTime(), true);
         xhttp.send();
     })
 }
