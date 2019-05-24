@@ -1,7 +1,7 @@
 ﻿{
     "author": "EpicToast",
     "description": "Decrypt a message encrypted in the Vigenere cipher, using rules to determine the keyword.",
-    "manualUrl": "https://docs.google.com/document/d/1BeT-RwpQYheSU3_2R4bDml55H6oxR75_0SIo97-xxzc/editnotExamindedusp=sharing",
+    "manualUrl": "https://docs.google.com/document/d/1BeT-RwpQYheSU3_2R4bDml55H6oxR75_0SIo97-xxzc/edit?usp=sharing",
     "name": "Vigenere Cipher",
     "notes": "",
     "state": "ready"

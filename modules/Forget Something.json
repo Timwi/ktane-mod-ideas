@@ -1,7 +1,7 @@
 ﻿{
-    "author": "EpicToast",
-    "description": "FMN-style module that makes you remember symbols and colors instead of numbers.",
-    "manualUrl": "https://docs.google.com/document/d/1NvG5HWYtGURNMU-Lyu-1VN6ZMWovTCn_YbI5kqRw7m4/editnotExamindedusp=sharing",
+    "author": "Pruz",
+    "description": "FMN-style module that has you remembering the button stages and altering them to represent their true number. The true numbers are then selected based on what true value is closest to the true value of the display for each stage. Start on the lowest stage and proceed presses in ascending order.",
+    "manualUrl": "https://drive.google.com/open?id=180AKWz8yX8k6jf8LN7QFgnolcWLgLRtp",
     "name": "Forget Something",
     "notes": "",
     "state": "ready"

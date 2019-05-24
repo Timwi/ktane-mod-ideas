@@ -1,8 +1,8 @@
 ﻿{
-    "author": "Nightmare Tank",
-    "description": "",
-    "manualUrl": "https://discordapp.com/channels/160061833166716928/215768669668507648/341202012807102466",
+    "author": "Pruz",
+    "description": "Play Pong against an AI.",
+    "manualUrl": "https://docs.google.com/\ndocument/d/1qXtDXdzCjNaG\nj9X1en4Unw1QhKxhstpKsh\nHrNibfQjg/edit?usp=sharing",
     "name": "Pong",
-    "notes": "If you would like to help me out here, update the state by checking out the link, then remove the notes here.",
-    "state": "notExaminded"
+    "notes": "",
+    "state": "ready"
 }

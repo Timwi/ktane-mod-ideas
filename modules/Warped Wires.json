@@ -1,8 +1,8 @@
 ﻿{
-    "author": "Zawu",
-    "description": "",
+    "author": "aengelberg",
+    "description": "The module is a fairly basic wire-cutting puzzle. But there's a warp in the space-time continuum causing the module to be already solved, and the actions must be executed in reverse until the module is unsolved. Part of the puzzle is figuring out this twist. What the defuser will end up actually doing is \"uncutting\" the wires in reverse order and then turning the power ON.\n\nThe green light on the module will start lit green (but flickering as if the reality is unstable), and will turn off when the first wire is uncut. All sound effects will play backwards.",
     "manualUrl": "https://www.jotform.us/uploads/KeepTalking/62686042776162/3793290638324086654/On the Subject of Warped Wires.pdf",
     "name": "Warped Wires",
-    "notes": "If you would like to help me out here, update the state by checking out the link, then remove the notes here.",
-    "state": "notExaminded"
+    "notes": "Author may be difficult to contact, please check 'Old Manual Spreadsheet' if you want better contact details.",
+    "state": "ready"
 }

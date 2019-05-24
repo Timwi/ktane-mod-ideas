@@ -1,7 +1,7 @@
 ﻿{
     "author": "Pruz",
     "description": "Decode the message being presented with flashing LEDs and select buttons depending on the words received.",
-    "manualUrl": "https://docs.google.com/document/d/153YmHqt7lI8nD1vh_R8X--HFFZX-BklXJZ6w5DJmLFA/editnotExamindedusp=sharing",
+    "manualUrl": "https://docs.google.com/document/d/153YmHqt7lI8nD1vh_R8X--HFFZX-BklXJZ6w5DJmLFA/edit?usp=sharing",
     "name": "Feedback",
     "notes": "",
     "state": "notReady"

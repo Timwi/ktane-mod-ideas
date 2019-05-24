@@ -1,7 +1,7 @@
 ﻿{
     "author": "Pruz",
     "description": "Select buttons on the module in the order of each cross section on a table. Then read from a column from the bottom of the table to the top and select the rest by checking the color of the buttons.",
-    "manualUrl": "https://docs.google.com/document/d/1LiAqBFpLULi8DBiK48lIs9d6VL1V09u3H5jF98rKy3c/editnotExamindedusp=sharing",
+    "manualUrl": "https://docs.google.com/document/d/1LiAqBFpLULi8DBiK48lIs9d6VL1V09u3H5jF98rKy3c/edit?usp=sharing",
     "name": "Cross Cross",
     "notes": "",
     "state": "notReady"

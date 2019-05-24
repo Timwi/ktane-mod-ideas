@@ -3,6 +3,6 @@
     "description": "Input a pin number using a variety of different rules. (If you don't have a Two Factor that is)",
     "manualUrl": "",
     "name": "Pin #",
-    "notes": "Now if you would tell me the three digit on the back of that cardnotExaminded... Thank you.",
+    "notes": "Now if you would tell me the three digit on the back of that card?... Thank you.",
     "state": "notReady"
 }

@@ -1,7 +1,7 @@
 ﻿{
     "author": "Pruz",
     "description": "The Zener card will flip up some time during defusal. This card will flip back face down shortly after. When all Zener cards are shown, select the previously viewe Zener card to solve the module.",
-    "manualUrl": "https://docs.google.com/document/d/1_BnpAKuypcEu5U5PYvEHyqBaFV4j1QHQ7WDoyLHO_bY/editnotExamindedusp=sharing",
+    "manualUrl": "https://docs.google.com/document/d/1_BnpAKuypcEu5U5PYvEHyqBaFV4j1QHQ7WDoyLHO_bY/edit?usp=sharing",
     "name": "Zener Cards",
     "notes": "",
     "state": "ready"

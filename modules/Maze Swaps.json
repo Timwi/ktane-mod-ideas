@@ -1,7 +1,7 @@
 ﻿{
     "author": "Lumbud84",
     "description": "Navigate the white square to the red triangle while the walls of the maze are hidden and can change with each step.",
-    "manualUrl": "https://docs.google.com/document/d/1RKE7Irl8ZuP3p83ONT5fGaMhlDGXVDBW2xTMc7oR06Y/editnotExamindedusp=sharing",
+    "manualUrl": "https://docs.google.com/document/d/1RKE7Irl8ZuP3p83ONT5fGaMhlDGXVDBW2xTMc7oR06Y/edit?usp=sharing",
     "name": "Maze Swaps",
     "notes": "Was originally being implemented by KingBranBran, but a module-breaking bug has caused progress to grind to a halt for over a year. Consult both Lumbud and KingBranBran before beginning implementation.",
     "state": "ready"

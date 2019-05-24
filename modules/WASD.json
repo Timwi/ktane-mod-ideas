@@ -1,7 +1,7 @@
 ﻿{
     "author": "cerulean",
     "description": "Press keys W, A, S, and D in a certain order.",
-    "manualUrl": "https://docs.google.com/document/d/1KoxQLA7pEIejZbbId92_cnR6dP1dbWTg-qDM7IFyd0I/editnotExamindedusp=sharing",
+    "manualUrl": "https://docs.google.com/document/d/1KoxQLA7pEIejZbbId92_cnR6dP1dbWTg-qDM7IFyd0I/edit?usp=sharing",
     "name": "WASD",
     "notes": "I'm almost 100% certain this module has already been made.",
     "state": "ready"
