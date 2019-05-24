@@ -5,35 +5,57 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>KTaNE Mod Ideas</title>
     <style>
-    .state-notReady {
-        color:black;
-        font-size:200%;
-        text-align: center;
-        background:#F4D4D5;
-    }
-    .state-ready {
-        color:black;
-        font-size:250%;
-        text-align: center;
-        background:#FFF7D2;
+        .state-notReady {
+            color: black;
+            font-size: 200%;
+            text-align: center;
+            background: #F4D4D5;
+        }
 
-    }
-    .state-inProgress {
-        color:black;
-        font-size:200%;
-        text-align: center;
-        background:#E2F0DA;
-    }
-    body {
-        background-color: black;
-        color: white;
-    }
+        .state-ready {
+            color: black;
+            font-size: 250%;
+            text-align: center;
+            background: #FFF7D2;
+
+        }
+
+        .state-inProgress {
+            color: black;
+            font-size: 200%;
+            text-align: center;
+            background: #E2F0DA;
+        }
+
+        .state-notExamined {
+            color: black;
+            font-size: 200%;
+            text-align: center;
+            background: gray;
+        }
+
+        body {
+            background-color: #2d2d2d;
+            color: #ababab;
+        }
+
+        input {
+            background: #dddddd;
+        }
+
+        .center-magic {
+            margin-left: auto;
+            margin-right: auto;
+            max-width: 1000px;
+            width:100%;
+        }
     </style>
 </head>
 
 <body>
-    <div>Search: <input id="searchBox" onchange="doSearch();" onkeyup="doSearch();" oninput="doSearch();"></div>
-    <div id="page"></div>
+    <div class="center-magic"><h1>KTaNE Mod Ideas</h2></div>
+    <div class="center-magic">Search: <input id="searchBox" onchange="doSearch();" onkeyup="doSearch();" oninput="doSearch();"></div>
+    <div id="page" class="center-magic"></div>
     <script src="loader.js"></script>
 </body>
 

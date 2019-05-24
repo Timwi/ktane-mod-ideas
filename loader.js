@@ -27,12 +27,12 @@ function generateTable(data) {
             o += linkFormat.replace('%%url%%', data[i].manualUrl).replace('%%name%%', data[i].name).replace('%%author%%', data[i].author)
                 .replace('%%description%%', data[i].description.replace(/\n/g, '<br>'))
                 .replace('%%notes%%', data[i].notes.replace(/\n/g, '<br>'))
-                .replace('%%type%%', "state-" + data[i].state).replace('%%state%%', data[i].state == "notReady" ? "✘" : data[i].state == "ready" ? "❖" : "✓");
+                .replace('%%type%%', "state-" + data[i].state).replace('%%state%%', data[i].state == "notReady" ? "✘" : data[i].state == "ready" ? "❖" : data[i].state == "inProgress" ? "✓" : "?");
         } else {
             o += nolinkFormat.replace('%%name%%', data[i].name).replace('%%author%%', data[i].author)
                 .replace('%%description%%', data[i].description.replace(/\n/g, '<br>'))
                 .replace('%%notes%%', data[i].notes.replace(/\n/g, '<br>'))
-                .replace('%%type%%', "state-" + data[i].state).replace('%%state%%', data[i].state == "notReady" ? "✘" : data[i].state == "ready" ? "❖" : "✓");
+                .replace('%%type%%', "state-" + data[i].state).replace('%%state%%', data[i].state == "notReady" ? "✘" : data[i].state == "ready" ? "❖" : data[i].state == "inProgress" ? "✓" : "?");
         }
     }
     o += "</table>";
@@ -61,8 +61,8 @@ function sortData(d, t) {
         return inProgress.concat(ready.concat(notReady));
     } else if (t == "name") {
         return d.sort((a, b) => {
-            var an=a.name.toLowerCase().replace(/^the/g,'').trim();
-            var bn=b.name.toLowerCase().replace(/^the/g,'').trim();
+            var an = a.name.toLowerCase().replace(/^the/g, '').trim();
+            var bn = b.name.toLowerCase().replace(/^the/g, '').trim();
             if (t == "name") {
                 return a.name < b.name ? -1 : 1;
             } else
@@ -72,7 +72,7 @@ function sortData(d, t) {
 }
 
 function searchData(d) {
-    return d.filter(a=>a.name.toLowerCase().includes(searchValue.toLowerCase()));
+    return d.filter(a => a.name.toLowerCase().includes(searchValue.toLowerCase()));
 }
 
 function init() {

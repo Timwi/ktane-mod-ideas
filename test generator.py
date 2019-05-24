@@ -1,6 +1,6 @@
 import glob, json
 
-a=glob.glob("mods/*.json")
+a=glob.glob("modules/*.json")
 b=[]
 for i in a:
     f=open(i,'r')
