@@ -1,0 +1,8 @@
+﻿{
+    "author": "JasonAce13",
+    "description": "This module activates as soon as the bomb timer starts. Whenever you solve another module, the temperature gauge will increase by a random number between 5 and 20. Whenever one second passes, the temperature will decrease by 1. If the temperature ever goes over 50, the player will get a strike.",
+    "manualUrl": "https://www.jotform.us/uploads/KeepTalking/62686042776162/358766214491357579/OntheSubjectofTemperature.docx",
+    "name": "Temperature",
+    "notes": "Author may be difficult to contact, please check 'Old Manual Spreadsheet' if you want better contact details.",
+    "state": "ready"
+}

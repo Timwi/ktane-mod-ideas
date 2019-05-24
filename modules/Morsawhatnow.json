@@ -1,0 +1,8 @@
+﻿{
+    "author": "ExE",
+    "description": "Pretty much the same as the vanilla Morse Code module, but a lot more complicated on the expert's part. It can be distinguished from the normal Morse Code by a white LED instead of an orange one",
+    "manualUrl": "https://www.jotform.us/uploads/KeepTalking/62686042776162/3749994733528457628/Morsawhatnow.pdf",
+    "name": "Morsawhatnow",
+    "notes": "Author may be difficult to contact, please check 'Old Manual Spreadsheet' if you want better contact details.",
+    "state": "ready"
+}

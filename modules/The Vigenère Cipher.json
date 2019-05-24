@@ -1,0 +1,8 @@
+﻿{
+    "author": "aGood_Nicknam3",
+    "description": "The module starts with all the dials being on \"A\". The dials when pressed on the top (or bottom) should \"scroll\" up or down in the direction needed. When the submit button is pressed, the dials could speed up to then put the password as \"SOLVED\". The code could also be erased for Souvenir support. (What was the third letter's colornotExaminded, What was the plaintext codenotExaminded, What was the 4th letternotExaminded)",
+    "manualUrl": "https://www.jotform.com/uploads/KeepTalking/62686042776162/4131252164315472697/Vigenère Cipher.docx",
+    "name": "The Vigenère Cipher",
+    "notes": "Author may be difficult to contact, please check 'Old Manual Spreadsheet' if you want better contact details.",
+    "state": "ready"
+}

@@ -1,0 +1,8 @@
+﻿{
+    "author": "White Sky",
+    "description": "The module looks like a Number Pad with numbers from 1 to 9.\nThe numbers are generated in random orders.\nBelow or above the number pad could be a display to see which numbers were pressed.\nThere could also be a clear and check button.\n\nHow the module should be resolved:\n- The defuser tells the expert specific numbers\n- The expert figures out which numbers to press\n- The defuser presses them and clicks on a button to hopefully put the needy module to sleep\n Manual Page: http://puu.sh/t4PwF/e3606d7f45.png",
+    "manualUrl": "https://www.jotform.us/uploads/KeepTalking/62686042776162/358842213631497705/Needy Module Manual.html",
+    "name": "Needy Numbers",
+    "notes": "Author may be difficult to contact, please check 'Old Manual Spreadsheet' if you want better contact details.",
+    "state": "ready"
+}

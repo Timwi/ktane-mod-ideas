@@ -1,0 +1,8 @@
+﻿{
+    "author": "paintrain",
+    "description": "There are 4 or 8 buttons(not set in stone yet), each with a meter below it. One button will be selected at random when a module is solved. The meter below the button will slowly tick up. Once the meter is filled, a strike will occur. In order to avoid this, you must press one of the other buttons. The previous button will slowly cool down at about half of the rate it increases. The button that is now selected will start to tick up.",
+    "manualUrl": "https://www.jotform.us/uploads/KeepTalking/62686042776162/3770223307329833983/Hot Potato Module.docx",
+    "name": "Hot Potato",
+    "notes": "Author may be difficult to contact, please check 'Old Manual Spreadsheet' if you want better contact details.",
+    "state": "ready"
+}

@@ -1,0 +1,8 @@
+﻿{
+    "author": "White Sky",
+    "description": "The knob can be turned to one of eight different positions.\n\nThe knob must be in the correct position when this module's timer hits zero.\n\nThe correct position can be determined by the configuration of the sixteen different LEDs, four in each corner, which can show up to five different colors.\n\nKnob positions are relative to the T/B, L/B, Mir H and Mir V labels next to the timer. Which tells the current UP position.\n\nThose labels can be on or off.\n\nThere can also be some colors showing that isn't in any of the grids on the manual.",
+    "manualUrl": "https://www.jotform.us/uploads/KeepTalking/62686042776162/361725954431561514/Advanced Needy Knob.html",
+    "name": "Advanced Knob",
+    "notes": "Author may be difficult to contact, please check 'Old Manual Spreadsheet' if you want better contact details.",
+    "state": "ready"
+}

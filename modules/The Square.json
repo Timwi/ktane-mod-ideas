@@ -1,0 +1,8 @@
+﻿{
+    "author": "Pruz",
+    "description": "Note the color of the square and the colors the of the gauge around the square that the corner is pointing to.\nUse the colors received from the tables of the colors of the corners of the square to color a blank table's columns and rows certain colors. \nFlip the square over and notate the rotation as well as the rotation's speed of the square and the gauge that rotates along with it. \nUse the table's colors and the color of both sides of the square to figure out which colors to submit on when the square reaches a certain color on the gauge. \nThe number on the flipped side of the square will help as well to find a set of rules for the table the expert has colored.",
+    "manualUrl": "",
+    "name": "The Square",
+    "notes": "(I'm working on the manual, but I do not currently wish to give a link to the document.)",
+    "state": "notReady"
+}

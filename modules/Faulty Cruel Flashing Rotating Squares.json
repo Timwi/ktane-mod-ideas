@@ -1,0 +1,8 @@
+﻿{
+    "author": "Kusane",
+    "description": "A harder version of Cruel Flashing Rotating Squares, where you have 3 Dead Sqaures instead of one, but only one of them is the correct one you can use to determine which row/column can you press.",
+    "manualUrl": "https://drive.google.com/file/d/1SnLrF_juKoyA465WRvdmFSwarGU1oTnW/view",
+    "name": "Faulty Cruel Flashing Rotating Squares",
+    "notes": "It's a joke manual, but hey if you wanna make it, go ahead",
+    "state": "ready"
+}

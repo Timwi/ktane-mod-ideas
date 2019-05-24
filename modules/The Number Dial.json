@@ -1,0 +1,8 @@
+﻿{
+    "author": "Lumbud84",
+    "description": "There is a large dial with a screen in the middle. The screen has a number corresponding to the angle it's pointing in. there is another screen in the bottom corner that has a random number between 0 and 359. Follow the steps to figure out what number the dial should be at, taking account for the direction you have to turn it in. Do this 4 times to disarm the module.",
+    "manualUrl": "https://www.jotform.com/uploads/KeepTalking/62686042776162/354859572771707660/Number%20Dial.pdf",
+    "name": "The Number Dial",
+    "notes": "",
+    "state": "ready"
+}

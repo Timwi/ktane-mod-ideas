@@ -1,8 +1,8 @@
-{
-    "name":"Button Grids",
-    "manualUrl":"https://docs.google.com/document/d/1jbZ5pP9rdunqOBjscnXxrG0WB_DrwdHFXg95EzQnZUc/edit?usp=sharing",
-    "author":"Asew54321",
-    "description":"Press all forty buttons on a huge grid by following rules for ten stages and not pressing the same button twice.",
-    "state":"inProgress",
-    "notes":"Currently being implemented by EpicToast."
+﻿{
+    "author": "Asew54321",
+    "description": "Press all forty buttons on a huge grid by following rules for ten stages and not pressing the same button twice.",
+    "manualUrl": "https://docs.google.com/document/d/1jbZ5pP9rdunqOBjscnXxrG0WB_DrwdHFXg95EzQnZUc/editnotExamindedusp=sharing",
+    "name": "Button Grids",
+    "notes": "Currently being implemented by EpicToast.",
+    "state": "inProgress"
 }

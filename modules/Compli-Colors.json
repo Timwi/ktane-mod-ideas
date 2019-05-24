@@ -1,0 +1,8 @@
+﻿{
+    "author": "Lumbud84",
+    "description": "This one is pretty complicated. A colored word will appear on 3 display with an LED next to each of them. Pay attention to which LEDs are lit. Use the tables to figure out which button to press. It'll make more sense when you read the manual page.",
+    "manualUrl": "https://www.jotform.us/uploads/KeepTalking/62686042776162/355944404771994780/Compli-Colors.pdf",
+    "name": "Compli-Colors",
+    "notes": "Manual needs to be completely reworked, as it is a few years out of date.",
+    "state": "notReady"
+}

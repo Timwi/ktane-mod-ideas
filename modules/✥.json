@@ -1,0 +1,8 @@
+﻿{
+    "author": "Pruz",
+    "description": "Press the LED that is in the direction that is \"the opposite of up\". Figure this out by using the direction the arrow is pointing and with the states of each LED.",
+    "manualUrl": "https://docs.google.com/document/d/1xxHAQMNyTuU_i6426P6zOQi6_agQcqfhkLqSKnZDmvQ/editnotExamindedusp=sharing",
+    "name": "✥",
+    "notes": "",
+    "state": "ready"
+}

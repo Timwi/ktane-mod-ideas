@@ -1,0 +1,8 @@
+﻿{
+    "author": "Blananas2",
+    "description": "Move disks to the correct poles without letting any disk go on top of a disk smaller than it.",
+    "manualUrl": "",
+    "name": "Towers of Hanoi",
+    "notes": "",
+    "state": "notReady"
+}

@@ -1,0 +1,8 @@
+﻿{
+    "author": "Lumbud84",
+    "description": "Enter a combination of LEDs based on the display in the top-right corner and the last digit of the serial number.",
+    "manualUrl": "https://docs.google.com/document/d/1SHjd27eb7opZIHZ2MiidoAduu1VgQk_viRPZcfb6PhM/editnotExamindedusp=sharing",
+    "name": "3x3 Grid",
+    "notes": "",
+    "state": "ready"
+}

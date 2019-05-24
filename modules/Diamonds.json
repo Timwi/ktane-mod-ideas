@@ -1,8 +1,8 @@
-{
-    "name":"Diamonds",
-    "manualUrl":"https://www.jotform.us/uploads/KeepTalking/62686042776162/3788677496017433321/Diamonds manual.pdf",
-    "author":"Indigo",
-    "description":"There are 3 tilted squares on the module. All of them are dyed with 2 of 6 colors (Red, Yellow, Green, Blue, Magenta, Orange). Their locations are top, left and right. The module is solved if you press the correct square. Pressing either one of the false two will result in a strike. For further information check out the manual page (PDF) and the image.",
-    "state":"ready",
-    "notes":"Author may be difficult to contact, please check 'Old Manual Spreadsheet' if you want better contact details."
+﻿{
+    "author": "Indigo",
+    "description": "There are 3 tilted squares on the module. All of them are dyed with 2 of 6 colors (Red, Yellow, Green, Blue, Magenta, Orange). Their locations are top, left and right. The module is solved if you press the correct square. Pressing either one of the false two will result in a strike.\nFor further information check out the manual page (PDF) and the image.",
+    "manualUrl": "https://www.jotform.us/uploads/KeepTalking/62686042776162/3788677496017433321/Diamonds manual.pdf",
+    "name": "Diamonds",
+    "notes": "Author may be difficult to contact, please check 'Old Manual Spreadsheet' if you want better contact details.",
+    "state": "ready"
 }

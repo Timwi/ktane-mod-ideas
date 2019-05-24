@@ -1,0 +1,8 @@
+﻿{
+    "author": "Pruz",
+    "description": "Input a sequence of buttons based on the directions that are spoken to you.",
+    "manualUrl": "N/A",
+    "name": "Spoken Word",
+    "notes": "No manual necessary I guess.",
+    "state": "ready"
+}

@@ -1,0 +1,8 @@
+﻿{
+    "author": "Kirbyz2013",
+    "description": "A 2x2 board with shaped holes and a window with shape pieces. Defuser presses the arrows to shift between cells in the grid, loops back to the first cell in the row or column. When the shapes match the defuser presses the green button. Module deactivates when all holes are filled.",
+    "manualUrl": "https://www.jotform.us/uploads/KeepTalking/62686042776162/3742266199624774399/On the Subject of Piece Out Revised.docx",
+    "name": "Piece Out",
+    "notes": "Author may be difficult to contact, please check 'Old Manual Spreadsheet' if you want better contact details.",
+    "state": "ready"
+}

@@ -1,0 +1,8 @@
+﻿{
+    "author": "joostg",
+    "description": "On the subject of traveling: Based on a point of departure, a point of arrival and a time, determine the flight route for your international travel. The edgework will determine if the given time is the arrival or departure time. A map of the world and a lookup table will allow you to calculate the total flight time needed (which may be influenced by edgework). You need to submit the correct arrival or departure time (depending on what you were given) to solve the module.",
+    "manualUrl": "https://www.jotform.us/uploads/KeepTalking/62686042776162/3750640456306717184/On the subject of Traveling.docx",
+    "name": "Traveling",
+    "notes": "Author may be difficult to contact, please check 'Old Manual Spreadsheet' if you want better contact details.",
+    "state": "ready"
+}
