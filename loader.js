@@ -41,7 +41,7 @@ function getDataFile() {
 }
 
 function generateTable(data) {
-    var o = "<table>";
+    var o = "<div><table>";
     if(searchValue!="") data = searchData(data);
     data = sortData(data);
     for (var i = 0; i < data.length; i++) {
@@ -57,7 +57,7 @@ function generateTable(data) {
                 .replace('%%type%%', "state-" + data[i].state).replace('%%state%%', data[i].state == "notReady" ? "✘" : data[i].state == "ready" ? "❖" : data[i].state == "inProgress" ? "✓" : "?");
         }
     }
-    o += "</table>";
+    o += "</table><div><b style=\"float:right;\">"+data.length+"</b></div></div>";
     page.innerHTML = o;
 }
 

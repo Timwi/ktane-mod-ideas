@@ -29,7 +29,7 @@
             width:30px;
         }
 
-        .state-notExaminded {
+        .state-unknown {
             color: black;
             font-size: 200%;
             text-align: center;
@@ -93,7 +93,7 @@
     <div class="center-magic">
         Search:&nbsp;<input id="searchBox" onchange="doSearch();" onkeyup="doSearch();" oninput="doSearch();">
         &nbsp;--&nbsp;Sort by:&nbsp;<input type="radio" checked name="sort-type" value="name" onchange="doSearch();">Alphabetical / <input type="radio" name="sort-type" value="state" onchange="doSearch();">State
-        &nbsp;--&nbsp;<form action="update.php" method="POST">Update: <input name="pin"><input type="submit"></form>
+        &nbsp;--&nbsp;<form action="update.php" method="POST" style="display:inline-block;">Update: <input name="pin"><input type="submit"></form>
     </div>
     <div id="page" class="center-magic"></div>
     <script src="loader.js"></script>
