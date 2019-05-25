@@ -94,11 +94,15 @@ function sortData(d, t) {
 }
 
 function searchFilter(d,t) {
-    return d.filter(a => a[t].toString().toLowerCase().includes(searchValue.toLowerCase()));
+    return a[t].toString().toLowerCase().includes(searchValue.toLowerCase();
+}
+
+function searchDump(d) {
+    return searchFilter(d,"name")||searchFilter(d,"author")||searchFilter(d,"description")||searchFilter(d,"notes");
 }
 
 function searchData(d) {
-    return searchFilter(d,"name")||searchFilter(d,"author")||searchFilter(d,"description")||searchFilter(d,"notes");
+    return d.filter(a=>searchDump(a));
 }
 
 function init() {
