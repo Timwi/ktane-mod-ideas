@@ -3,6 +3,6 @@
     "manualUrl":"<manual url>",
     "author":"<author>",
     "description":"<description>",
-    "state":"<notReady/ready/inProgress>",
+    "state":"<notReady/ready/inProgress/unknown>",
     "notes":"<notes>"
 }
