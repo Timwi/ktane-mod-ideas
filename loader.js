@@ -42,7 +42,7 @@ function getDataFile() {
 
 function generateTable(data) {
     var o = "<table>";
-    data = searchData(data);
+    if(searchBox.value!="") data = searchData(data);
     data = sortData(data);
     for (var i = 0; i < data.length; i++) {
         if (data[i].manualUrl !== "" && data[i].manualUrl !== undefined && data[i].manualUrl !== null) {
@@ -93,7 +93,7 @@ function sortData(d, t) {
     }
 }
 
-function searchFilter(d,t) {
+function searchFilter(a,t) {
     return a[t].toString().toLowerCase().includes(searchValue.toLowerCase());
 }
 
