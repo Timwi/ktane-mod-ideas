@@ -41,9 +41,13 @@ function getDataFile() {
 }
 
 function colourSpecialAuthor(n) {
+    var m=n.split(",");
     var table={"blananas2":"mod-author-blananas","mrmelon":"mod-author-mrmelon"};
-    if(table[n.toLowerCase()]===undefined)return n;
-    return `<span class="${table[n.toLowerCase()]}">${n}</span>`;
+    return m.map(b=>{
+        b=b.trim();
+        if(table[b.toLowerCase()]===undefined)return b;
+        return `<span class="${table[b.toLowerCase()]}">${b}</span>`;
+    }).join(', ');
 }
 
 function generateTable(data) {
