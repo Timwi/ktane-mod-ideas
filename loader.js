@@ -93,8 +93,12 @@ function sortData(d, t) {
     }
 }
 
+function searchFilter(d,t) {
+    return d.filter(a => a[t].toString().toLowerCase().includes(searchValue.toLowerCase()));
+}
+
 function searchData(d) {
-    return d.filter(a => a.name.toString().toLowerCase().includes(searchValue.toLowerCase()));
+    return searchFilter(d,"name")||searchFilter(d,"author")||searchFilter(d,"description")||searchFilter(d,"notes");
 }
 
 function init() {
