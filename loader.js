@@ -94,7 +94,7 @@ function sortData(d, t) {
 }
 
 function searchFilter(d,t) {
-    return a[t].toString().toLowerCase().includes(searchValue.toLowerCase();
+    return a[t].toString().toLowerCase().includes(searchValue.toLowerCase());
 }
 
 function searchDump(d) {
