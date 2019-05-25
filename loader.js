@@ -41,6 +41,7 @@ function getDataFile() {
 }
 
 function colourSpecialAuthor(n) {
+    return n;
     var m=n.split(",");
     var table={"blananas2":"mod-author-blananas","mrmelon":"mod-author-mrmelon"};
     return m.map(b=>{
