@@ -52,8 +52,8 @@ function generateTable(data) {
                 .replace('%%type%%', "state-" + data[i].state).replace('%%state%%', data[i].state == "notReady" ? "✘" : data[i].state == "ready" ? "❖" : data[i].state == "inProgress" ? "✓" : "?");
         } else {
             o += nolinkFormat.replace('%%name%%', data[i].name).replace('%%author%%', data[i].author)
-                .replace('%%description%%', data[i].description.replace(/\n/g, '<br>'))
-                .replace('%%notes%%', data[i].notes.replace(/\n/g, '<br>'))
+                .replace('%%description%%', data[i].description.replace(/\n/g, '<br>').replace(/&quot;/g,'"'))
+                .replace('%%notes%%', data[i].notes.replace(/\n/g, '<br>').replace(/&quot;/g,'"'))
                 .replace('%%type%%', "state-" + data[i].state).replace('%%state%%', data[i].state == "notReady" ? "✘" : data[i].state == "ready" ? "❖" : data[i].state == "inProgress" ? "✓" : "?");
         }
     }
