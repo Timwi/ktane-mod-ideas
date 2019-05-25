@@ -96,12 +96,24 @@ function sortData(d, t) {
     }
 }
 
-function searchFilter(a,t) {
-    return a[t].toString().toLowerCase().includes(searchValue.toLowerCase());
+function searchFilter(a,t,v) {
+    return a[t].toString().toLowerCase().includes(v);
 }
 
 function searchDump(d) {
-    return searchFilter(d,"name")||searchFilter(d,"author")||searchFilter(d,"description")||searchFilter(d,"notes");
+    var v=searchValue.toLowerCase();
+    if(v.indexOf("n:")==0) {
+        return searchFilter(d,"name",v.substr(2,v.length));
+    } else if(v.indexOf("a:")==0) {
+        return searchFilter(d,"author",v.substr(2,v.length));
+    } else if(v.indexOf("desc:")==0) {
+        return searchFilter(d,"description",v.substr(5,v.length));
+    } else if(v.indexOf("notes:")==0) {
+        return searchFilter(d,"notes",v.substr(6,v.length));
+    } else if(v.indexOf("s:")==0) {
+        return searchFilter(d,"state",v.substr(2,v.length));
+    }
+    return searchFilter(d,"name",v)||searchFilter(d,"author",v)||searchFilter(d,"description",v)||searchFilter(d,"notes",v)||searchFilter(d,"state",v);
 }
 
 function searchData(d) {
