@@ -83,8 +83,8 @@ function sortData(d, t) {
         return inProgress.concat(ready.concat(notReady));
     } else if (t == "name") {
         return d.sort((a, b) => {
-            var an = a.name.toLowerCase().replace(/^the/g, '').trim();
-            var bn = b.name.toLowerCase().replace(/^the/g, '').trim();
+            var an = a.name.toString().toLowerCase().replace(/^the/g, '').trim();
+            var bn = b.name.toString().toLowerCase().replace(/^the/g, '').trim();
             if (t == "name") {
                 return a.name < b.name ? -1 : 1;
             } else
@@ -94,7 +94,7 @@ function sortData(d, t) {
 }
 
 function searchData(d) {
-    return d.filter(a => a.name.toLowerCase().includes(searchValue.toLowerCase()));
+    return d.filter(a => a.name.toString().toLowerCase().includes(searchValue.toLowerCase()));
 }
 
 function init() {
