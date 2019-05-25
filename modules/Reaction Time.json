@@ -1,8 +1,8 @@
 ﻿{
-    "author": "Dtslayer",
-    "description": "",
-    "manualUrl": "https://docs.google.com/document/d/1BKT3OGsyf-yAxZ5Ij-F8YdRchnQTEY06GbhF3Kxq_NY/edit",
-    "name": "Reaction Time",
-    "notes": "If you would like to help me out here, update the state by checking out the link, then remove the notes here.",
-    "state": "notExaminded"
+  "author": "Dtslayer",
+  "description": "",
+  "manualUrl": "https://docs.google.com/document/d/1BKT3OGsyf-yAxZ5Ij-F8YdRchnQTEY06GbhF3Kxq_NY/edit",
+  "name": "Reaction Time",
+  "notes": "If you would like to help me out here, update the state by checking out the link, then remove the notes here.",
+  "state": "unknown"
 }

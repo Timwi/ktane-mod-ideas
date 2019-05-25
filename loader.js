@@ -72,15 +72,18 @@ function sortData(d, t) {
         var notReady = [];
         var ready = [];
         var inProgress = [];
+        var unknown=[];
         for (var i = 0; i < d.length; i++) {
             if (d[i].state == "notReady") notReady.push(d[i]);
             else if (d[i].state == "ready") ready.push(d[i]);
             else if (d[i].state == "inProgress") inProgress.push(d[i]);
+            else if(d[i].state=="unknown") unknown.push(d[i]);
         }
         notReady = sortData(notReady, "name");
         ready = sortData(ready, "name");
         inProgress = sortData(inProgress, "name");
-        return inProgress.concat(ready.concat(notReady));
+        unknown=sortData(unknown,"name");
+        return inProgress.concat(ready.concat(notReady.concat(unknown)));
     } else if (t == "name") {
         return d.sort((a, b) => {
             var an = a.name.toString().toLowerCase().replace(/^the/g, '').trim();

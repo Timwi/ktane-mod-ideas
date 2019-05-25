@@ -1,8 +1,8 @@
 ﻿{
-    "author": "Geraldo",
-    "description": "",
-    "manualUrl": "https://docs.google.com/document/d/1Azv_P6nWJ2M5C5vmXaJG9cxJmInM2VOMC5c3_3HaB-Y/edit",
-    "name": "Connect the Dots",
-    "notes": "If you would like to help me out here, update the state by checking out the link, then remove the notes here.",
-    "state": "notExaminded"
+  "author": "Geraldo",
+  "description": "",
+  "manualUrl": "https://docs.google.com/document/d/1Azv_P6nWJ2M5C5vmXaJG9cxJmInM2VOMC5c3_3HaB-Y/edit",
+  "name": "Connect the Dots",
+  "notes": "If you would like to help me out here, update the state by checking out the link, then remove the notes here.",
+  "state": "unknown"
 }

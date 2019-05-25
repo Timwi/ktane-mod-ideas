@@ -1,8 +1,8 @@
 ﻿{
-    "author": "Retro",
-    "description": "",
-    "manualUrl": "http://www.mediafire.com/file/k9zrswcy5d39yjp/Sequenced+Caesar+Ciphers.rar",
-    "name": "Sequenced Caesar Cipher",
-    "notes": "If you would like to help me out here, update the state by checking out the link, then remove the notes here.",
-    "state": "notExaminded"
+  "author": "Retro",
+  "description": "",
+  "manualUrl": "http://www.mediafire.com/file/k9zrswcy5d39yjp/Sequenced+Caesar+Ciphers.rar",
+  "name": "Sequenced Caesar Cipher",
+  "notes": "If you would like to help me out here, update the state by checking out the link, then remove the notes here.",
+  "state": "unknown"
 }
