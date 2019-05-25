@@ -83,7 +83,11 @@
 
 <body>
     <div class="center-magic"><h1>KTaNE Mod Ideas</h2></div>
-    <div class="center-magic">Search: <input id="searchBox" onchange="doSearch();" onkeyup="doSearch();" oninput="doSearch();"> -- Sort by: <input type="radio" checked name="sort-type" value="name">Alphabetical / <input type="radio" name="sort-type" value="state">State</div>
+    <div class="center-magic">
+        Search:&nbsp;<input id="searchBox" onchange="doSearch();" onkeyup="doSearch();" oninput="doSearch();">
+        &nbsp;--&nbsp;Sort by:&nbsp;<input type="radio" checked name="sort-type" value="name">Alphabetical / <input type="radio" name="sort-type" value="state">State
+        &nbsp;--&nbsp;<form action="update.php" method="POST">Update: <input name="pin"><input type="submit"></form>
+    </div>
     <div id="page" class="center-magic"></div>
     <script src="loader.js"></script>
 </body>
