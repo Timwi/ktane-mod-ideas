@@ -67,7 +67,7 @@ function doSearch() {
 }
 
 function sortData(d, t) {
-    if (!t) t = sortType;
+    if (!t) t = document.querySelector('input[name="sort-type"]:checked').value;
     if (t == "state") {
         var notReady = [];
         var ready = [];
