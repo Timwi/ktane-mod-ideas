@@ -47,8 +47,8 @@ function generateTable(data) {
     for (var i = 0; i < data.length; i++) {
         if (data[i].manualUrl !== "" && data[i].manualUrl !== undefined && data[i].manualUrl !== null) {
             o += linkFormat.replace('%%url%%', data[i].manualUrl).replace('%%name%%', data[i].name).replace('%%author%%', data[i].author)
-                .replace('%%description%%', data[i].description==''?'':('<div class="mod-description">'+data[i].description.replace(/\n/g, '<br>')+'</div>'))
-                .replace('%%notes%%', data[i].notes==''?'':('<div class="mod-notes">'+('('+data[i].notes+')').replace(/\n/g, '<br>')+'</div>'))
+                .replace('%%description%%', data[i].description==''?'':('<div class="mod-description">'+data[i].description.replace(/\n/g, '<br>').replace(/&quot;/g,'"')+'</div>'))
+                .replace('%%notes%%', data[i].notes==''?'':('<div class="mod-notes">'+('('+data[i].notes+')').replace(/\n/g, '<br>').replace(/&quot;/g,'"')+'</div>'))
                 .replace('%%type%%', "state-" + data[i].state).replace('%%state%%', data[i].state == "notReady" ? "✘" : data[i].state == "ready" ? "❖" : data[i].state == "inProgress" ? "✓" : "?");
         } else {
             o += nolinkFormat.replace('%%name%%', data[i].name).replace('%%author%%', data[i].author)
