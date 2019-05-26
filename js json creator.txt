@@ -1,0 +1,22 @@
+//Copy row from spreadsheet into the string below.
+var Info = "";
+
+var All = Info.split("	");
+console.log("{");
+console.log('    "name":"'+All[0]+'",');
+console.log('    "manualUrl":"'+All[1]+'",');
+console.log('    "author":"'+All[2]+'",');
+console.log('    "description":"'+All[3]+'",');
+if (All[4] == "🗸") {
+   console.log('    "state":"inProgress",');
+} else if (All[4] == "❖") {
+   console.log('    "state":"ready",');
+} else if (All[4] == "✘") {
+   console.log('    "state":"notReady",');
+} else if (All[4] == "?") {
+   console.log('    "state":"unknown",');
+} else {
+   console.log('Way to go buddy, it took us 3 minutes to finish this code, THREE MINUTES!!!');
+}
+console.log('    "notes":"'+All[5]+'",');
+console.log("}");
