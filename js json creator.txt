@@ -18,5 +18,5 @@ if (All[4] == "🗸") {
 } else {
    console.log('Way to go buddy, it took us 3 minutes to finish this code, THREE MINUTES!!!');
 }
-console.log('    "notes":"'+All[5]+'",');
+console.log('    "notes":"'+All[5]+'"');
 console.log("}");
