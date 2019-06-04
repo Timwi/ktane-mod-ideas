@@ -1,7 +1,7 @@
 ﻿{
     "author": "Pruz",
     "description": "Solve a Langton's Ant and color the tiles that the ant has traversed.",
-    "manualUrl": "https://docs.google.com/\ndocument/d/1Xf6JJMdi0A\nnAQa1RB_swqVbuVILUT-vr0a\nFiFrWG9xA/edit?usp=sharing",
+    "manualUrl": "https://docs.google.com/document/d/1Xf6JJMdi0AnAQa1RB_swqVbuVILUT-vr0aFiFrWG9xA/edit?usp=sharing",
     "name": "Langton's Ant",
     "notes": "",
     "state": "ready"
