@@ -1,0 +1,8 @@
+{
+    "name":"Needy Nyan Softlock",
+    "manualUrl":"",
+    "author":"My Smart Side 002",
+    "description":"Needy: While this needy is inactive, it shows a still image of Nyan Cat. When this needy activates, Nyan Cat will move and its song will play. Whenever a module becomes disarmed while this needy is activated, it will strike. A bomb should not have more than one Needy Nyan Softlock. 10 seconds is the default for the timer.",
+    "state":"ready",
+    "notes":""
+}
