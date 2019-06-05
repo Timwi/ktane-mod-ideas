@@ -1,8 +1,8 @@
 ﻿{
-    "author": "WarioLGP",
-    "description": "",
-    "manualUrl": "",
+    "author": "toshi",
+    "description": "This module as some members on the community calls it "Adventure Game on acid." This is inspired by the board game "Danmaku," a Touhou Project board game derivative, and Magic the Gathering. ",
+    "manualUrl": "https://docs.google.com/document/d/1q5dcpVmqIazD4aMjA-TRG-O-lXQCGSB-2zIlUXPlObs/edit",
     "name": "Resolving Incidents",
-    "notes": "",
+    "notes": ""Manual technically finished and ready to develop. However, the huge obstacle is number balancing as a whole due to the meta of the amount of widgets over the months (which is the vanilla 5 widgets)." -Toshi",
     "state": "notReady"
 }
