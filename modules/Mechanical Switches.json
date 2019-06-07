@@ -1,8 +1,8 @@
 ﻿{
-    "author": "Pruz",
-    "description": "Select each button and figure out which keys make which sounds. Using these sounds, figure out when to hold each button down and when you should release them. Watch out for faulty keys!",
-    "manualUrl": "https://drive.google.com/file/d/1eVKEpau6FJzxAWL5uWSUd5vhckO7b5T8/view?usp=sharing",
-    "name": "Mechanical Switches",
-    "notes": "",
-    "state": "ready"
+    "name":"Mechanical Switches",
+    "manualUrl":"https://drive.google.com/file/d/1eVKEpau6FJzxAWL5uWSUd5vhckO7b5T8/view?usp=sharing",
+    "author":"Pruz",
+    "description":"Select each button and figure out which keys make which sounds. Using these sounds, figure out when to hold each button down and when you should release them. Watch out for faulty keys!",
+    "state":"inProgress",
+    "notes":"Currently being implemented by Espik."
 }
