@@ -1,0 +1,8 @@
+{
+    "name":"LED Code",
+    "manualUrl":"https://docs.google.com/document/d/1MEdBddn9ddmz0h7lU0OB_zS0Sy_ruPYoVLDtjHN4SpY/edit?usp=sharing",
+    "author":"Blananas2",
+    "description":"Use the LEDs to determine which sequence of on and off LEDs should be used to solve the module.",
+    "state":"ready",
+    "notes":""
+}
