@@ -51,10 +51,22 @@ function colourSpecialAuthor(n) {
     }).join(', ');
 }
 
-function generateTable(data) {
+function generateTable(data,m) {
     var o = "<div><table>";
     if(searchValue!="") data = searchData(data);
     data = sortData(data);
+    /* Just adding this useless comment */
+    if(m){
+        var arr=[
+            {manualUrl:"",name:"Literally",author:"P",description:"Come on",notes:"",state:"unknown"},
+            {manualUrl:"",name:"Just",author:"L",description:"guys,",notes:"",state:"unknown"},
+            {manualUrl:"",name:"One",author:"E",description:"it can't",notes:"",state:"unknown"},
+            {manualUrl:"",name:"Meme",author:"A",description:"be",notes:"",state:"unknown"},
+            {manualUrl:"",name:"Module",author:"S",description:"that",notes:"",state:"unknown"},
+            {manualUrl:"",name:"Guys",author:"E",description:"difficult!",notes:"",state:"unknown"}
+        ];
+        data=arr.concat(data);
+    }
     for (var i = 0; i < data.length; i++) {
         if (data[i].manualUrl !== "" && data[i].manualUrl !== undefined && data[i].manualUrl !== null) {
             o += linkFormat.replace('%%url%%', data[i].manualUrl).replace('%%name%%', data[i].name).replace('%%author%%', colourSpecialAuthor(data[i].author))
@@ -74,7 +86,7 @@ function generateTable(data) {
 
 function doSearch() {
     searchValue = searchBox.value;
-    generateTable(tableData);
+    generateTable(tableData,searchValue==="meme");
 }
 
 function sortData(d, t) {
