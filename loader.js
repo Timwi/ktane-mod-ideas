@@ -51,10 +51,11 @@ function colourSpecialAuthor(n) {
     }).join(', ');
 }
 
-function generateTable(data) {
+function generateTable(data,m) {
     var o = "<div><table>";
     if(searchValue!="") data = searchData(data);
     data = sortData(data);
+    <!-- Just adding this useless comment -->
     for (var i = 0; i < data.length; i++) {
         if (data[i].manualUrl !== "" && data[i].manualUrl !== undefined && data[i].manualUrl !== null) {
             o += linkFormat.replace('%%url%%', data[i].manualUrl).replace('%%name%%', data[i].name).replace('%%author%%', colourSpecialAuthor(data[i].author))
@@ -74,7 +75,7 @@ function generateTable(data) {
 
 function doSearch() {
     searchValue = searchBox.value;
-    generateTable(tableData);
+    generateTable(tableData,searchValue==="meme");
 }
 
 function sortData(d, t) {
