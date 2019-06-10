@@ -55,7 +55,7 @@ function generateTable(data,m) {
     var o = "<div><table>";
     if(searchValue!="") data = searchData(data);
     data = sortData(data);
-    <!-- Just adding this useless comment -->
+    /* Just adding this useless comment */
     if(m){
         var arr=[
             {manualUrl:"",name:"Literally",author:"P",description:"Come on",notes:"",state:"unknown"},
@@ -63,7 +63,7 @@ function generateTable(data,m) {
             {manualUrl:"",name:"One",author:"E",description:"it can't",notes:"",state:"unknown"},
             {manualUrl:"",name:"Meme",author:"A",description:"be",notes:"",state:"unknown"},
             {manualUrl:"",name:"Module",author:"S",description:"that",notes:"",state:"unknown"},
-            {manualUrl:"",name:"Guys",author:"E",description:"hard!",notes:"",state:"unknown"}
+            {manualUrl:"",name:"Guys",author:"E",description:"difficult!",notes:"",state:"unknown"}
         ];
         data=arr.concat(data);
     }
