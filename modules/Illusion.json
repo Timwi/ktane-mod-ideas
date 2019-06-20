@@ -1,0 +1,8 @@
+{
+    "name":"Illusion",
+    "manualUrl":"https://drive.google.com/open?id=1OhchYoOywzsYhcSXIP1xAwM7TrXS6u6IophXHDWHCSY",
+    "author":"ConManAU",
+    "description":"Press the images based on how much of them is a certain colour, except it might not be easy to tell.",
+    "state":"ready",
+    "notes":"In addition to actual implementation, this probably needs someone with some graphic design skills to make the images."
+}
