@@ -1,0 +1,8 @@
+{
+    "name":"MiniTIS-100",
+    "manualUrl":"https://drive.google.com/open?id=11wNH58CSzl8dYYk44B0OcHmfRUGpeRs8",
+    "author":"Kusane",
+    "description":"A two-staged module based on the Zachtronics' Assembly coding puzzle game, 'TIS-100'. In the first stage, you have to figure out the correct set of input that, when ran through the shown program, will produce the shown output. In the second stage, you write a program to turn the shown input into the shown output.",
+    "state":"ready",
+    "notes":"First stage, possible. \nSecond stage, gonna be tough to implement."
+}
