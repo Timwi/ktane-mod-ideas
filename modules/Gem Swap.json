@@ -1,8 +1,8 @@
 ﻿{
-  "author": "Kirbyz2013",
-  "description": "",
-  "manualUrl": "https://discordapp.com/channels/160061833166716928/215768669668507648/357534418673598477",
-  "name": "Gem Swap",
-  "notes": "If you would like to help me out here, update the state by checking out the link, then remove the notes here.",
-  "state": "unknown"
+    "name":"Gem Swap",
+    "manualUrl":"https://discordapp.com/channels/160061833166716928/215768669668507648/357534418673598477",
+    "author":"Kirbyz2013",
+    "description":"",
+    "state":"notReady",
+    "notes":""
 }

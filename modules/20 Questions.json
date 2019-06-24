@@ -1,8 +1,8 @@
 ﻿{
-  "author": "Blipadouzi",
-  "description": "",
-  "manualUrl": "https://discordapp.com/channels/160061833166716928/215768669668507648/357748135105265665",
-  "name": "20 Questions",
-  "notes": "If you would like to help me out here, update the state by checking out the link, then remove the notes here.",
-  "state": "unknown"
+    "name":"20 Questions",
+    "manualUrl":"https://discordapp.com/channels/160061833166716928/215768669668507648/357748135105265665",
+    "author":"Blipadouzi",
+    "description":"",
+    "state":"notReady",
+    "notes":""
 }

@@ -1,8 +1,8 @@
 ﻿{
-  "author": "Fepo censurado",
-  "description": "",
-  "manualUrl": "https://discordapp.com/channels/160061833166716928/215768669668507648/263425452222185473",
-  "name": "Extended Maze",
-  "notes": "If you would like to help me out here, update the state by checking out the link, then remove the notes here.",
-  "state": "unknown"
+    "name":"Extended Maze",
+    "manualUrl":"https://discordapp.com/channels/160061833166716928/215768669668507648/263425452222185473",
+    "author":"Fepo censurado",
+    "description":"",
+    "state":"notReady",
+    "notes":""
 }

@@ -1,8 +1,8 @@
 ﻿{
-  "author": "UltraCboy",
-  "description": "",
-  "manualUrl": "https://docs.google.com/document/d/13hcFOKxzuAi2WDSvjlDqFRk2ixJr0wt8KQbwJTagTKA/edit",
-  "name": "C#",
-  "notes": "If you would like to help me out here, update the state by checking out the link, then remove the notes here.",
-  "state": "unknown"
+    "name":"C#",
+    "manualUrl":"https://docs.google.com/document/d/13hcFOKxzuAi2WDSvjlDqFRk2ixJr0wt8KQbwJTagTKA/edit",
+    "author":"UltraCboy",
+    "description":"",
+    "state":"ready",
+    "notes":""
 }

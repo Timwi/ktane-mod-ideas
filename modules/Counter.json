@@ -1,8 +1,8 @@
 ﻿{
-  "author": "AdobeWallHacks",
-  "description": "",
-  "manualUrl": "https://i.imgur.com/Je0NBaF.png",
-  "name": "Counter",
-  "notes": "If you would like to help me out here, update the state by checking out the link, then remove the notes here.",
-  "state": "unknown"
+    "name":"Counter",
+    "manualUrl":"https://i.imgur.com/Je0NBaF.png",
+    "author":"AdobeWallHacks",
+    "description":"",
+    "state":"ready",
+    "notes":""
 }

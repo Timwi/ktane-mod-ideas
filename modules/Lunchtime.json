@@ -1,8 +1,8 @@
 ﻿{
-  "author": "Soulless Turtle",
-  "description": "",
-  "manualUrl": "https://docs.google.com/document/d/1ZsQ0v1NznU3E5vriUsmJB0dpMY8Q75FUgdVKiar5Spk/edit?usp=sharing",
-  "name": "Lunchtime",
-  "notes": "If you would like to help me out here, update the state by checking out the link, then remove the notes here.",
-  "state": "unknown"
+    "name":"Lunchtime",
+    "manualUrl":"https://docs.google.com/document/d/1ZsQ0v1NznU3E5vriUsmJB0dpMY8Q75FUgdVKiar5Spk/edit?usp=sharing",
+    "author":"Soulless Turtle",
+    "description":"",
+    "state":"ready",
+    "notes":""
 }

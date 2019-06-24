@@ -1,8 +1,8 @@
 ﻿{
-  "author": "ModeWondershot",
-  "description": "",
-  "manualUrl": "https://cdn.discordapp.com/attachments/215768669668507648/319946996435648533/Calligraphy_Module_Page.doc",
-  "name": "Calligraphy",
-  "notes": "If you would like to help me out here, update the state by checking out the link, then remove the notes here.",
-  "state": "unknown"
+    "name":"Calligraphy",
+    "manualUrl":"https://cdn.discordapp.com/attachments/215768669668507648/319946996435648533/Calligraphy_Module_Page.doc",
+    "author":"ModeWondershot",
+    "description":"",
+    "state":"notReady",
+    "notes":""
 }

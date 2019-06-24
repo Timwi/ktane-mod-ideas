@@ -1,8 +1,8 @@
 ﻿{
-  "author": "Byt3weeks",
-  "description": "",
-  "manualUrl": "https://discordapp.com/channels/160061833166716928/215768669668507648/295589443979575296",
-  "name": "Creation",
-  "notes": "If you would like to help me out here, update the state by checking out the link, then remove the notes here.",
-  "state": "unknown"
+    "name":"Creation",
+    "manualUrl":"https://discordapp.com/channels/160061833166716928/215768669668507648/295589443979575296",
+    "author":"Byt3weeks",
+    "description":"",
+    "state":"notReady",
+    "notes":""
 }

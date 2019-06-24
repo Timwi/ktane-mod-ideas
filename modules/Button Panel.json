@@ -1,8 +1,8 @@
 ﻿{
-  "author": "Squidularity",
-  "description": "",
-  "manualUrl": "https://docs.google.com/document/d/1-2VRQvBUyDTNCqmFn7GUhVYK1TkXDWCyA0RuwVros7U",
-  "name": "Button Panel",
-  "notes": "If you would like to help me out here, update the state by checking out the link, then remove the notes here.",
-  "state": "unknown"
+    "name":"Button Panel",
+    "manualUrl":"https://docs.google.com/document/d/1-2VRQvBUyDTNCqmFn7GUhVYK1TkXDWCyA0RuwVros7U",
+    "author":"Squidularity",
+    "description":"",
+    "state":"ready",
+    "notes":""
 }

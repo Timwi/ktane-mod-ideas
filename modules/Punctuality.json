@@ -1,8 +1,8 @@
 ﻿{
-  "author": "MrElmo",
-  "description": "",
-  "manualUrl": "https://www.dropbox.com/s/u1mz6x5o9c1w9ns/punctuality.pdf?dl=0",
-  "name": "Punctuality",
-  "notes": "If you would like to help me out here, update the state by checking out the link, then remove the notes here.",
-  "state": "unknown"
+    "name":"Punctuality",
+    "manualUrl":"https://www.dropbox.com/s/u1mz6x5o9c1w9ns/punctuality.pdf?dl=0",
+    "author":"MrElmo",
+    "description":"",
+    "state":"ready",
+    "notes":""
 }

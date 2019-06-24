@@ -1,8 +1,8 @@
 ﻿{
-  "author": "JashinFanatic, Rexkix",
-  "description": "",
-  "manualUrl": "https://pastebin.com/k8uzTRtU",
-  "name": "Hold 'em Poker",
-  "notes": "If you would like to help me out here, update the state by checking out the link, then remove the notes here.",
-  "state": "unknown"
+    "name":"Hold 'em Poker",
+    "manualUrl":"https://pastebin.com/k8uzTRtU",
+    "author":"JashinFanatic, Rexkix",
+    "description":"",
+    "state":"notReady",
+    "notes":""
 }

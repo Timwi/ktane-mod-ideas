@@ -1,8 +1,8 @@
 ﻿{
-  "author": "Jr. All Star",
-  "description": "",
-  "manualUrl": "https://discordapp.com/channels/160061833166716928/215768669668507648/350770864603529239",
-  "name": "Global Thermonuclear War",
-  "notes": "If you would like to help me out here, update the state by checking out the link, then remove the notes here.",
-  "state": "unknown"
+    "name":"Global Thermonuclear War",
+    "manualUrl":"https://discordapp.com/channels/160061833166716928/215768669668507648/350770864603529239",
+    "author":"Jr. All Star",
+    "description":"",
+    "state":"notReady",
+    "notes":""
 }

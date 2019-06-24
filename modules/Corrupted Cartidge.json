@@ -1,8 +1,8 @@
 ﻿{
-  "author": "WarioLGP",
-  "description": "",
-  "manualUrl": "https://discordapp.com/channels/160061833166716928/215768669668507648/363373646762475532",
-  "name": "Corrupted Cartidge",
-  "notes": "If you would like to help me out here, update the state by checking out the link, then remove the notes here.",
-  "state": "unknown"
+    "name":"Corrupted Cartidge",
+    "manualUrl":"https://discordapp.com/channels/160061833166716928/215768669668507648/363373646762475532",
+    "author":"WarioLGP",
+    "description":"",
+    "state":"notReady",
+    "notes":""
 }
