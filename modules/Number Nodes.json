@@ -1,8 +1,8 @@
 ﻿{
-  "author": "Hexicube",
-  "description": "",
-  "manualUrl": "https://discordapp.com/channels/160061833166716928/215768669668507648/238258454907715584",
-  "name": "Number Nodes",
-  "notes": "If you would like to help me out here, update the state by checking out the link, then remove the notes here.",
-  "state": "unknown"
+    "name":"Number Nodes",
+    "manualUrl":"https://discordapp.com/channels/160061833166716928/215768669668507648/238258454907715584",
+    "author":"Hexicube",
+    "description":"",
+    "state":"notReady",
+    "notes":""
 }

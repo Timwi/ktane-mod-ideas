@@ -1,8 +1,8 @@
 ﻿{
-    "author": "Lumbud84",
-    "description": "Enter a sequence of arrows depending on each arrow's type, color, and direction.",
-    "manualUrl": "https://docs.google.com/document/d/1ng-1KtSWxII7An1YNL_P--szudMOm03gB_U5JClceYs/edit?usp=sharing",
-    "name": "Simon Signals",
-    "notes": "",
-    "state": "ready"
+    "name":"Simon Signals",
+    "manualUrl":"https://docs.google.com/document/d/1ng-1KtSWxII7An1YNL_P--szudMOm03gB_U5JClceYs/edit?usp=sharing",
+    "author":"Lumbud84",
+    "description":"Enter a sequence of arrows depending on each arrow's type, color, and direction.",
+    "state":"ready",
+    "notes":""
 }

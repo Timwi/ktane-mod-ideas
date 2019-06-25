@@ -1,8 +1,8 @@
 ﻿{
-  "author": "Verius",
-  "description": "",
-  "manualUrl": "https://discordapp.com/channels/160061833166716928/215768669668507648/345768424594735104",
-  "name": "Odds and Ends",
-  "notes": "If you would like to help me out here, update the state by checking out the link, then remove the notes here.",
-  "state": "unknown"
+    "name":"Odds and Ends",
+    "manualUrl":"https://discordapp.com/channels/160061833166716928/215768669668507648/345768424594735104",
+    "author":"Verius",
+    "description":"",
+    "state":"notReady",
+    "notes":""
 }

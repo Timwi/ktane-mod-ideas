@@ -1,8 +1,8 @@
 ﻿{
-  "author": "Mr. Porcu",
-  "description": "",
-  "manualUrl": "https://discordapp.com/channels/160061833166716928/215768669668507648/261620606087200770",
-  "name": "Street Prioritization",
-  "notes": "If you would like to help me out here, update the state by checking out the link, then remove the notes here.",
-  "state": "unknown"
+    "name":"Street Prioritization",
+    "manualUrl":"https://discordapp.com/channels/160061833166716928/215768669668507648/261620606087200770",
+    "author":"Mr. Porcu",
+    "description":"",
+    "state":"notReady",
+    "notes":""
 }

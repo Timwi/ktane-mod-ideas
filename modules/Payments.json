@@ -1,8 +1,8 @@
 ﻿{
-  "author": "Ry0001",
-  "description": "",
-  "manualUrl": "https://discordapp.com/channels/160061833166716928/215768669668507648/289474910080991254",
-  "name": "Payments",
-  "notes": "If you would like to help me out here, update the state by checking out the link, then remove the notes here.",
-  "state": "unknown"
+    "name":"Payments",
+    "manualUrl":"https://discordapp.com/channels/160061833166716928/215768669668507648/289474910080991254",
+    "author":"Ry0001",
+    "description":"",
+    "state":"notReady",
+    "notes":""
 }

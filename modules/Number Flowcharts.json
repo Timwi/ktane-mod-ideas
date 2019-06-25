@@ -1,8 +1,8 @@
 ﻿{
-  "author": "MoMo",
-  "description": "",
-  "manualUrl": "https://cdn.discordapp.com/attachments/215768669668507648/255061433539100672/flowchart.pdf",
-  "name": "Number Flowcharts",
-  "notes": "If you would like to help me out here, update the state by checking out the link, then remove the notes here.",
-  "state": "unknown"
+    "name":"Number Flowcharts",
+    "manualUrl":"https://cdn.discordapp.com/attachments/215768669668507648/255061433539100672/flowchart.pdf",
+    "author":"MoMo",
+    "description":"",
+    "state":"notReady",
+    "notes":""
 }
