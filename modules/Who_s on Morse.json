@@ -1,8 +1,8 @@
 ﻿{
-  "author": "Kevlar",
-  "description": "",
-  "manualUrl": "https://imgur.com/dLGuCrR",
-  "name": "Who's on Morse",
-  "notes": "If you would like to help me out here, update the state by checking out the link, then remove the notes here.",
-  "state": "unknown"
+    "name":"Who's on Morse",
+    "manualUrl":"https://imgur.com/dLGuCrR",
+    "author":"Kevlar",
+    "description":"",
+    "state":"notReady",
+    "notes":""
 }

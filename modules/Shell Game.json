@@ -1,8 +1,8 @@
 ﻿{
-  "author": "Zawu",
-  "description": "",
-  "manualUrl": "https://docs.google.com/document/d/1obn9eipQsSbROIbaQRDowoEY9UmIZ-tSm4S47Vr-CPs/edit",
-  "name": "Shell Game",
-  "notes": "If you would like to help me out here, update the state by checking out the link, then remove the notes here.",
-  "state": "unknown"
+    "name":"Shell Game",
+    "manualUrl":"https://docs.google.com/document/d/1obn9eipQsSbROIbaQRDowoEY9UmIZ-tSm4S47Vr-CPs/edit",
+    "author":"Zawu",
+    "description":"",
+    "state":"ready",
+    "notes":""
 }
