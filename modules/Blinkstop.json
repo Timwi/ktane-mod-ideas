@@ -1,0 +1,8 @@
+﻿{
+    "name":"Blinkstop",
+    "manualUrl":"https://docs.google.com/document/d/1P_CLNY37vUvlUXwz4t2b8hR91w__QNNjGW1XLeqpHF4/edit?usp=sharing",
+    "author":"Pruz",
+    "description":"Input a seuence based on the the amount of times the status light has flashed.",
+    "state":"ready",
+    "notes":""
+}
