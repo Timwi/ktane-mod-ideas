@@ -1,8 +1,8 @@
 ﻿{
-    "author": "Pruz",
-    "description": "Change colors on a module based on the color displayed above.",
-    "manualUrl": "",
-    "name": "Color Down",
-    "notes": "",
-    "state": "notReady"
+    "name":"Color Down",
+    "manualUrl":"https://docs.google.com/document/d/1r86bskETdgmJID31OIY3cwqIfqKBwnGpvphpoyJliwQ/edit?usp=sharing",
+    "author":"Pruz",
+    "description":"Change colors on a module based on the color displayed above.",
+    "state":"ready",
+    "notes":""
 }
