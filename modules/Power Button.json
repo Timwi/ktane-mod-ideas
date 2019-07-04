@@ -1,0 +1,8 @@
+﻿{
+    "name":"Power Button",
+    "manualUrl":"https://docs.google.com/document/d/1ZtaO5uc7VHZT7ZX6f2LIRVb8fFKdhF32ej2DmSyS3Io/edit?usp=sharing",
+    "author":"cerulean",
+    "description":"Press a power button at a certain time.",
+    "state":"ready",
+    "notes":""
+}
