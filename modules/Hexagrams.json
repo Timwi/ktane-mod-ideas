@@ -1,0 +1,8 @@
+﻿{
+    "name":"Hexagrams",
+    "manualUrl":"https://drive.google.com/open?id=1pmQ77vGICpYdq8Y5T4FHeSz8voW_KFvm",
+    "author":"Mirage Xel",
+    "description":"Get a hexagram from the one on the module and the serial  number and submit its name.",
+    "state":"ready",
+    "notes":""
+}

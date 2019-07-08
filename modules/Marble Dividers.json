@@ -1,0 +1,8 @@
+﻿{
+    "name":"Marble Dividers",
+    "manualUrl":"",
+    "author":"Zakharias999",
+    "description":"A module where you "drop" marbles from six different channels with each channel having different conditions. some conitions will be based on the serial number's last character a vowel or the last digit being even, the marbles color (black, white, etc.) or type (metel, glass, etc.) , the instrument displayed on the button for the corresponding channel, and or the number of marbles in the channel.",
+    "state":"notReady",
+    "notes":"Recommend watching Wintergatan's progress on the Marble Machine X for reference and inspiration. [https://www.youtube.com/playlist?list=PLLLYkE3G1HED6rW-bkliHbMroHYFf4ukv]"
+}
