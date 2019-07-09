@@ -1,0 +1,8 @@
+﻿{
+    "name":"Logic Keypad",
+    "manualUrl":"https://docs.google.com/document/d/1CwbPXeJUpMf1dcV7FmlrENt95cuWVXQwaYIzCBa4ZoE/edit?usp=sharing",
+    "author":"Pruz",
+    "description":"Select keys that are true to a logic statement formed by the serial number and the amount of unsolved modules.",
+    "state":"ready",
+    "notes":""
+}
