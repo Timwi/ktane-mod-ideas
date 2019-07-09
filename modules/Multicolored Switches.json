@@ -1,0 +1,8 @@
+﻿{
+    "name":"Multicolored Switches",
+    "manualUrl":"https://docs.google.com/document/d/1gpMZNmqG8CAofRy40Oja15gK2Pzx7xV7IgCMC1vwkcc/edit",
+    "author":"Danny7007",
+    "description":"Based on the colors of switches, their bases, and the LEDs, figure out a solution position for a set of switches and a list of illegal switch positions that cannot be made. ",
+    "state":"ready",
+    "notes":"A sort of fusion between ordered keys, normal switches, and simon sends."
+}

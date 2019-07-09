@@ -2,7 +2,7 @@
     "name":"Unicode",
     "manualUrl":"https://docs.google.com/document/d/1_rYg7Hq42CtlFaimJOI5fKeGm_j3fuEaToHJGO_Jgbg",
     "author":"Danny7007",
-    "description":"",
+    "description":"Enter 4 symbols in a certain order, but they need to be entered as their unicode hexadecimal code.",
     "state":"ready",
     "notes":""
 }
