@@ -1,0 +1,8 @@
+﻿{
+    "name":"Recolored Switches",
+    "manualUrl":"https://docs.google.com/document/d/1Y5fTT85B6B2bbGIgw07Xh37WcqDTC0swRSPhwRCwrks/edit",
+    "author":"Danny7007",
+    "description":"Flip switches each stage for 10 stages based on lit LEDs",
+    "state":"ready",
+    "notes":"Similar to Microcontroller."
+}
