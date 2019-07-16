@@ -1,0 +1,8 @@
+﻿{
+    "name":"The Compass",
+    "manualUrl":"",
+    "author":"Pruz",
+    "description":"Navigate a maze using a compass that  rotates and changes orientation after each movement",
+    "state":"notReady",
+    "notes":""
+}

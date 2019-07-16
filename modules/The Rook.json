@@ -1,0 +1,8 @@
+﻿{
+    "name":"The Rook",
+    "manualUrl":"",
+    "author":"Pruz",
+    "description":"Move the rook to a space never occupied by it.",
+    "state":"notReady",
+    "notes":""
+}

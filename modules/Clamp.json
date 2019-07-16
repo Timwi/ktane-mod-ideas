@@ -1,0 +1,8 @@
+﻿{
+    "name":"Clamp",
+    "manualUrl":"",
+    "author":"Pruz",
+    "description":"Use the clamp to power a module that will start sparking if left clamped for too long. Use the displayed word to determine when to select a button.",
+    "state":"notReady",
+    "notes":""
+}
