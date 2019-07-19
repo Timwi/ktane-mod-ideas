@@ -1,8 +1,8 @@
 ﻿{
-    "author": "cerulean",
-    "description": "Select a song to play for a difficulty-varying player.",
-    "manualUrl": "https://docs.google.com/document/d/13FhfbaTd25V_ubmuMRm4TPaOYBeOc2Ct25NW9XfGFc4/edit?usp=sharing",
-    "name": "Song Selection",
-    "notes": "",
-    "state": "notReady"
+    "name":"Song Selection",
+    "manualUrl":"https://docs.google.com/document/d/13FhfbaTd25V_ubmuMRm4TPaOYBeOc2Ct25NW9XfGFc4/edit?usp=sharing",
+    "author":"cerulean",
+    "description":"Select a song to play for a difficulty-varying player.",
+    "state":"inProgress",
+    "notes":""
 }
