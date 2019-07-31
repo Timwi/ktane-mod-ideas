@@ -1,0 +1,8 @@
+﻿{
+    "name":"The Nobody's Code",
+    "manualUrl":"https://docs.google.com/document/d/1h1JcWBoTmraprdpKhdv2bCXtUHVYN-s9PcJ1b0iG4aU/edit?usp=sharing",
+    "author":"Tachatat18",
+    "description":"Keep track of 8-digits number given by the module which changes after a module is solved and use that to figure out the final 8 digit answer.",
+    "state":"ready",
+    "notes":""
+}
