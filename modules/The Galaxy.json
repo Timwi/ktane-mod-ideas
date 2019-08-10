@@ -1,0 +1,8 @@
+﻿{
+    "name":"The Galaxy",
+    "manualUrl":"https://docs.google.com/document/d/1x3Rx5pssXP8U8HFxWiTrfX87QQriQ0r5hb44MuOmVdo/edit?usp=sharing",
+    "author":"Rdzanu",
+    "description":"Based on the shape,color and size of the galaxy input the answer into it using gestures.",
+    "state":"ready",
+    "notes":""
+}
