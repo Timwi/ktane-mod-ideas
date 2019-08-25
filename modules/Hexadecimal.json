@@ -1,0 +1,8 @@
+﻿{
+    "name":"Hexadecimal",
+    "manualUrl":"https://docs.google.com/document/d/1AV06r_Lll6_YcYk1MNypazML5OC-OaY8PK99P9-DWSo/edit?usp=sharing",
+    "author":"TechnoTurquoise",
+    "description":"Deactivate the module by pressing the button when a certain hexadecimal character comes up in a sequence.",
+    "state":"ready",
+    "notes":""
+}
