@@ -1,0 +1,8 @@
+﻿{
+    "name":"Additional Indicators",
+    "manualUrl":"https://docs.google.com/document/d/1iamjRWMC1lh-iFkHM-gtNBkEeKp6-r6n-AmkJ5u56uQ/edit?usp=sharing",
+    "author":"TechnoTurquoise",
+    "description":"Additional indicator lights labelled with sets of letters.",
+    "state":"ready",
+    "notes":"A widget that extends the list of normal indicator states with more labels and different indicator colours."
+}

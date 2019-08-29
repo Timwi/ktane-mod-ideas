@@ -1,0 +1,8 @@
+﻿{
+    "name":"Module Identification",
+    "manualUrl":"https://docs.google.com/document/d/1CcFCRtho5XcBKeYxSjSvkUeAlRfXhEpYy3SOhiAHhK8/edit?usp=sharing",
+    "author":"RubyBfdi",
+    "description":"Press the correct arrow based on the module shown in the image, then solve a mini-puzzle about it.",
+    "state":"ready",
+    "notes":"Based off of modules such as BootTooBig and Module Movements. Difficulty is Variable for Defuser and Expert."
+}

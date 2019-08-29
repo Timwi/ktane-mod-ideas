@@ -1,0 +1,8 @@
+﻿{
+    "name":"Keypad Magnified",
+    "manualUrl":"https://docs.google.com/document/d/1hyUSCykENX-v9QD11VqHoLJsYdybks5xUaO9VJVbXj4/edit?usp=sharing",
+    "author":"Lumbud84",
+    "description":"Determine the layout of a keypad module when all the buttons form one massive symbol.",
+    "state":"ready",
+    "notes":"Inspired by a bug screenshot that VFlyer posted in the KTaNE Discord"
+}

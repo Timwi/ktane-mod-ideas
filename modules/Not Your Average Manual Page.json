@@ -1,0 +1,8 @@
+﻿{
+    "name":"Not Your Average Manual Page",
+    "manualUrl":"https://snap.berkeley.edu/embed?project=Not%20Your%20Average%20Manual%20Page&user=SnapenilK&showTitle=true",
+    "author":"Bryce",
+    "description":"Inspired by the manual of Needlessly Complicated Button, the manual itself will do everything* it can to not be able to be read and understood. Instead of a word processing document or an HTML document, the manual is a Snap! project.",
+    "state":"notReady",
+    "notes":"*The manual will not be quite as bad as to translate paragraphs into different languages, Atbash, Ceasar, Atbash again, hash, reverse, and whatever (that's too difficult, especially with the hash)."
+}
