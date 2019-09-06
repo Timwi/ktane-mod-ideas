@@ -1,0 +1,8 @@
+﻿{
+    "name":"Word Select",
+    "manualUrl":"https://docs.google.com/document/d/1TXTYCiFl_R1QYaxJduAVBP7ODzU5QC26FgVJvVM6Elk/edit",
+    "author":"RubyBfdi",
+    "description":"Find the correct letters in a grid so that the LEDS are on, then input a 4 letter word.",
+    "state":"ready",
+    "notes":"Very easy for defuser and easy for expert."
+}

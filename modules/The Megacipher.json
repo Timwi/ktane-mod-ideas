@@ -1,0 +1,8 @@
+﻿{
+    "name":"The Megacipher",
+    "manualUrl":"https://docs.google.com/document/d/1Nw1bh5oRYjadopo0dzPZ7ta06ELsEPSCN1s5ooE5By4/edit?usp=sharing",
+    "author":"RubyBfdi",
+    "description":"Take a key and put it through many ciphers.",
+    "state":"ready",
+    "notes":"I would say Medium for Defuser, and Hard for Expert."
+}

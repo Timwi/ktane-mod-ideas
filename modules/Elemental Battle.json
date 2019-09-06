@@ -1,0 +1,8 @@
+﻿{
+    "name":"Elemental Battle",
+    "manualUrl":"https://docs.google.com/document/d/1uc9zEa4ro6f7P-LqURTobd4mdNOoxW_GSrVFBEBaZPw/edit?usp=sharing",
+    "author":"RubyBfdi",
+    "description":"Needy, press the correct element which beats the element shown. Winning a round refills the timer.",
+    "state":"ready",
+    "notes":"Easy for both Defuser and Expert."
+}

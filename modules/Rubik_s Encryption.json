@@ -1,0 +1,8 @@
+﻿{
+    "name":"Rubik's Encryption",
+    "manualUrl":"https://docs.google.com/document/d/1N5ygzgmUxQpioE4TsCtTtZztv2Kk5ZD-dLA0yhUvDCs/edit",
+    "author":"Fartlicker777",
+    "description":"A very hard cipher which includes the mechanic of rotating a Rubik's Cube to get the correct keys",
+    "state":"ready",
+    "notes":"Have mercy on your soul if someone implements this"
+}

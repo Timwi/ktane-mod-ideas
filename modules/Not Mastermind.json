@@ -1,0 +1,8 @@
+﻿{
+    "name":"Not Mastermind",
+    "manualUrl":"https://docs.google.com/document/d/1FpZ0Vu345LEKwa3NOfCSMzW8uU2KvepkUCdv540O-Cc/edit?usp=sharing",
+    "author":"RubyBfdi",
+    "description":"Press query to see numbers which will help to solve the module on what looks to be a regular Mastermind module, but is not...",
+    "state":"ready",
+    "notes":"Based off of Kusane's \"Not\" modules, so credit to them too. Easy for both,"
+}
