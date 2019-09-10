@@ -1,0 +1,8 @@
+﻿{
+    "name":"Dice Language",
+    "manualUrl":"https://docs.google.com/document/d/1LdgeyLM9-ZjD-0yRofQc-p3qwqckY5RCVGxSMuyHQnw/edit?usp=sharing",
+    "author":"RubyBfdi",
+    "description":"Get number results from a dice to enter an unknown language.",
+    "state":"ready",
+    "notes":"Medium for expert, very easy for defuser."
+}

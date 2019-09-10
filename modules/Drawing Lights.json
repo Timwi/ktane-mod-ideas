@@ -1,0 +1,8 @@
+﻿{
+    "name":"Drawing Lights",
+    "manualUrl":"https://docs.google.com/document/d/1ZhjjOvrBCvsckZeCXUjowWFPJ_Y-SGhZ1GsnAvrkJqQ/edit?usp=sharing",
+    "author":"RubyBfdi",
+    "description":"Find a correct pattern with practise using a canvas mode, and using a random number generator to see how many squares you have and what to do.",
+    "state":"ready",
+    "notes":"Easy for both. Based off combination of Random number generator and Flash memory."
+}

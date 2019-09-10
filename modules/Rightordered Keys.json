@@ -1,0 +1,8 @@
+﻿{
+    "name":"Rightordered Keys",
+    "manualUrl":"https://docs.google.com/document/d/1ZZCMyIMIm4afznI_kGvJzwWoQUviM6hDwKUdZ3eOaCM/edit?usp=sharing",
+    "author":"RubyBfdi",
+    "description":"Use a number to order the keys correctly, then follow the Ordered Keys manual to solve the module.",
+    "state":"ready",
+    "notes":"Easy for Defuser, Hard for Expert simply because of the memory aspect of remembering the keys and numbers."
+}

@@ -1,0 +1,8 @@
+﻿{
+    "name":"Rot-N",
+    "manualUrl":"https://docs.google.com/document/d/1vXrEsWBWSVvURv9r6NGo6sbf2c52BWRHiSpjdENywbQ/edit?usp=sharing",
+    "author":"TechnoTurquoise",
+    "description":"Shift letters of an encrypted word from a rotating display, based on directions and edgework.",
+    "state":"ready",
+    "notes":"Easy for Defuser, medium for Expert. Inspired by Unown Cipher (which is what got me to make a cipher-based module), but don't worry, this is VERY different."
+}
