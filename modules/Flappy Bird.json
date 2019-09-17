@@ -1,0 +1,8 @@
+﻿{
+    "name":"Flappy Bird",
+    "manualUrl":"(pending)",
+    "author":"Bryce",
+    "description":"Needy: When this needy activates, the defuser will have a short amount of time to click the Start button. When the Start button is pressed, the timer turns off and the defuser can click the screen to make the bird flap upwards while gravity pulls it down. The defuser must guide the bird through ten pairs of pipes to temporarily disarm this needy without a strike. If the bird hits a pipe or falls below the bottom edge of the screen, a strike will be given and the module will be temporarily disarmed.",
+    "state":"ready",
+    "notes":""
+}
